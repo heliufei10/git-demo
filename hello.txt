@@ -17,3 +17,4 @@ hello atguigu hello git! hot-fix test
 1111111111111111111111111111111111111
 222222222222222222222 by lhc
 SSH免密登陆测试
+测试强制更新
